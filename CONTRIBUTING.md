@@ -7,9 +7,9 @@ Thank you for considering contributing to QuietTube! Your contributions help enh
 
 Contributions come in various forms, from reporting issues and suggesting enhancements to submitting pull requests with code changes. Here's how you can get involved:
 
-1. **Report Issues:** If you encounter a bug, inconsistency, or have a general suggestion, please open an issue on our [issue tracker](https://github.com/Mohsin-mw/QuietTube/issues). Be sure to include a descriptive title and a clear explanation.
+1. **Report Issues:** If you encounter a bug, inconsistency, or have a general suggestion, please open an issue on our [issue tracker](https://github.com/WeMasterCoding/QuietTube/issues). Be sure to include a descriptive title and a clear explanation.
 
-2. **Feature Requests:** Feel free to propose new features or improvements by creating an issue on the [issue tracker](https://github.com/Mohsin-mw/QuietTube/issues). Describe the feature's purpose and how it would benefit the QuietTube extension.
+2. **Feature Requests:** Feel free to propose new features or improvements by creating an issue on the [issue tracker](https://github.com/WeMasterCoding/QuietTube/issues). Describe the feature's purpose and how it would benefit the QuietTube extension.
 
 3. **Pull Requests:** If you're interested in contributing code directly, fork the repository and create a pull request. Before submitting, ensure your code adheres to the existing coding style and passes tests. Provide a clear description of your changes and reference any related issues.
 
@@ -32,7 +32,7 @@ Contributions come in various forms, from reporting issues and suggesting enhanc
 
 ## License
 
-By contributing to QuietTube, you agree that your contributions will be licensed under the [MIT License](https://github.com/Mohsin-mw/QuietTube/blob/main/LICENSE.txt).
+By contributing to QuietTube, you agree that your contributions will be licensed under the [MIT License](https://github.com/WeMasterCoding/QuietTube/blob/main/LICENSE.txt).
 
 ## Contact
 
